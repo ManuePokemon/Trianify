@@ -1,1 +1,2 @@
 # Trianify
+Manuel Rodriguez Chico
